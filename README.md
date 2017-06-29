@@ -19,6 +19,7 @@ Samples:
 ========
 Sample program to send and reveive SMS messages:
 
+```
 
 #include <DashSystemSerialGSM.h>
 DashSystemSerialGSM cell;
@@ -46,3 +47,5 @@ void loop() {
      cell.DeleteAllSMS();
   }
 }
+
+```
