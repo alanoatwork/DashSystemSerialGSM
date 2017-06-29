@@ -21,8 +21,6 @@ public:
   void StartSMS();
   int ReadLine();
   int ReceiveSMS();
-  void Verbose(boolean var1);
-  boolean Verbose();
   void Sender(char * var1);
   char * Sender();
   void Rcpt(char * var1);
@@ -31,7 +29,6 @@ public:
   char * Message();
   void Boot();
 
-  boolean verbose;
   char sendernumber[PHONESIZE + 1];
   char rcpt[PHONESIZE + 1];
   char outmessage[160];
