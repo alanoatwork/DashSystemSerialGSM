@@ -134,14 +134,6 @@ int DashSystemSerialGSM::ReceiveSMS(){
 }
 
 
-boolean DashSystemSerialGSM::Verbose(){
-	return verbose;
-}
-
-void DashSystemSerialGSM::Verbose(boolean var1){
-	verbose=var1;
-}
-
 char * DashSystemSerialGSM::Sender(){
 	return sendernumber;
 }
