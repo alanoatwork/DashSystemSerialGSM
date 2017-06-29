@@ -17,7 +17,7 @@ Install:
 
 Samples:
 ========
-Sample program to send and reveive SMS messages:
+Sample program to send and receive SMS messages:
 
 ```
 
