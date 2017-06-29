@@ -1,6 +1,7 @@
 # DashSystemSerialGSM
 Library for communicating with GMS modem using the Hologram Dash in passthrough mode
-DashSystemSerialSMS by Alan Ostroff
+DashSystemSerialSMS by Alan Ostroff.
+
 Derived from SerialGSM by Meir Michanie 
 Released under GPL3
 
